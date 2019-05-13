@@ -1,5 +1,6 @@
 #---------Virtual Reality of IIT Karwar ------------#
-			CS223 Software Engineering : Prof: Dr Sumit Kalra
+	CS223 Software Engineering : Prof: Dr Sumit Kalra
+
 A VR application for experiencing the beauty of our college.
 
 It contains Hostel_1.blend file which is a 3D model of B1 Hostel
